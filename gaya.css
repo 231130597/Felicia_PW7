@@ -1,0 +1,55 @@
+img{
+    width: 400px;
+    height: 300px;
+}
+header h1{
+    background-color: beige;
+    color: blue;
+    font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+span{
+    background-color: aqua;
+    color: rgb(171, 128, 211);
+    margin: 0cm;
+    padding-bottom: 0cqw;
+    font-size: xx-small;
+    font-family: fantasy;
+}
+
+h3.satu{
+    background-color: chartreuse;
+    color: chocolate;
+    padding: 0cqb;
+    font-size: small;
+}
+
+h3.dua{
+    background-color: chartreuse;
+    color: chocolate;
+    border: chartreuse;
+    font-size: larger;
+}
+video.tiga{
+    height: 500px;
+    width: 700px;
+    border-right: 0cqw;
+}
+
+h5.one{
+    background-color: blueviolet;
+    color: color(a98-rgb red green blue);
+    span{color: aliceblue;}
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+h5.two{
+    background-color: blueviolet;
+    color: color(a98-rgb red green blue);
+    span{color: aliceblue;}
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
